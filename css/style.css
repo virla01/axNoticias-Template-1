@@ -120,6 +120,9 @@ HEADER
 
 .header>.header_logo>.header_logo__img {
     display: inline-flex;
+    width: 450px;
+    margin-top: 0.9375rem;
+    margin-right: 1.25rem;
     -webkit-box-pack: start !important;
     -ms-flex-pack: start !important;
     justify-content: flex-start !important;
@@ -127,6 +130,7 @@ HEADER
 
 .header>.header_logo>.header_logo__banner {
     display: none;
+    width: 728px;
     -webkit-box-pack: end !important;
     -ms-flex-pack: end !important;
     justify-content: flex-end !important;
