@@ -1,2 +1,2 @@
 ## axNoticias Template 01
-![List / Screenshots](https://github.com/virla01/axNoticias-Template-1/Diseño/template01.jpg)
+![List / Screenshots](https://drive.google.com/file/d/1tKa7qi29p9gtynKOmSHob8jwUFl9lB71/view?usp=sharing)
